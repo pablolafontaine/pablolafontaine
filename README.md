@@ -7,9 +7,7 @@
 
 #### Connect with me!
 - 🌐 [Website](https://pablolafontaine.com)
-- 🕊 [Twitter](https://twitter.com/kouhaidev_)
-- 📸 [Instagram](https://instagram.com/pablolafontaine1)
 - ⛓ [Linkedin](https://linkedin.com/in/pablo-lafontaine)
-- 📫 contact@pablolafontaine.com
+- 📫 pablolafontaine1@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablolafontaine&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
