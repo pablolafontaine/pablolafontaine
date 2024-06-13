@@ -1,9 +1,9 @@
 <h2 align="center"> Hi, I'm Pablo 👋  </h2>
 <h3 align="center"> Student studying computer science @ Toronto Metropolitan University </h3>
 
-- 🔭 I’m currently working an imageboard full-stack web app
+- 🔭 I’m currently working an imageboard fullstack web app
 
-- 🌱 I’m currently learning backend development with Rust
+- 🌱 I’m currently learning backend development with Spring Boot
 
 #### Connect with me!
 - 🌐 [Website](https://pablolafontaine.com)
